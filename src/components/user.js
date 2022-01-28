@@ -15,7 +15,7 @@ class User extends Component {
        return index
      }
      function getInfo(){
-       let killerID = random()
+       let killerID = random() //jadkjsadsajd
           return (people[killerID])
        //return people[killerID]
      }
